@@ -1,0 +1,327 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+  }
+  body{
+      background-image:url(./imagebackground/janko-ferlic-sfL_QOnmy00-unsplash.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+  }
+  .box{
+      
+      border: 2px;
+      width: 600px;
+      margin: 0px auto;
+      margin-top: 60px;
+      padding: 25px;
+      height:fit-content;
+      text-align: justify;
+      background-image: url(./imagebackground/henry-be-lc7xcWebECc-unsplash.jpg);
+      background-attachment: fixed;
+      color: white;
+      font-size:19px ;
+      
+      
+   
+     
+  }
+  .box2{
+      text-align: center;
+  
+  }
+  .box5{
+      text-align: center;
+      font-size: 29px;
+  }
+  .box4{
+     
+      color: white;
+      font-weight: bold;
+      padding: 3px;
+      color:red;
+      font-size: 17px;
+  }
+  .box6{
+      text-align: center;
+      
+     
+  }
+  label{
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 17px;
+      font-style: italic;
+  }
+  #size{
+      width: 400px;
+      border: 1px solid #ddd;
+      outline: 0;
+      padding:9px;
+      border-radius: 3px;
+      background-color: while;
+  
+  }
+  
+  .box3{
+      color: red;
+      font-size: 29px;
+      
+  
+  }
+  .box6{
+      color: red;
+      text-align: justify;
+      font-size:22px;
+  }
+  @media  only screen  and (max-width:768px){
+      body{
+          background-image:url(./imagebackground/henry-be-lc7xcWebECc-unsplash.jpg);
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: cover;
+      }
+      .box{
+      
+          border: 2px;
+          width: 420px;
+          margin-top: 60px;
+          margin: 0,auto;
+          height:fit-content;
+          background-image: url(./imagebackground/henry-be-lc7xcWebECc-unsplash.jpg);
+          background-attachment: fixed;
+          color: white;
+          
+          
+          
+       
+         
+      }
+      .box2{
+          text-align: center;
+          font-size: 24px;
+          
+      
+      }
+      .box5{
+          text-align: center;
+          font-size: 27px;
+      }
+      .box4{
+         
+          color: white;
+          font-weight: bold;
+          color:red;
+          font-size: 19px;
+      }
+      .box6{
+          text-align: center;
+          
+         
+      }
+      label{
+          font-family:Verdana, Geneva, Tahoma, sans-serif;
+          font-size: 16px;
+          font-style: italic;
+      }
+      #size{
+          width: 300px;
+          border: 1px solid #ddd;
+          outline: 0;
+          padding:9px;
+          border-radius: 3px;
+          background-color: while;
+      
+      }
+      .box3{
+          color: red;
+          font-size: 29px;
+          
+      
+      }
+      .box6{
+          color: red;
+          text-align: justify;
+          font-size:22px;
+      }
+  }
+  
+  
+  @media  only screen  and (max-width:480px){
+      body{
+          background-image:url(imagebackground/janko-ferlic-sfL_QOnmy00-unsplash.jpg);
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: cover;
+      }
+      .box{
+      
+          border: 2px;
+          width: 280px;
+          margin-top: 60px;
+          padding: 25px;
+          margin: 0,auto;
+          height:fit-content;
+          background-image: url(imagebackground/henry-be-lc7xcWebECc-unsplash.jpg);
+          background-attachment: fixed;
+          color: white;
+          
+          
+          
+       
+         
+      }
+      .box2{
+          text-align: center;
+          font-size: 24px;
+          
+      
+      }
+      .box5{
+          text-align: center;
+          font-size: 27px;
+      }
+      .box4{
+         
+          color: white;
+          font-weight: bold;
+          color:red;
+          font-size: 19px;
+      }
+      .box6{
+          text-align: center;
+          
+         
+      }
+      label{
+          font-family:Verdana, Geneva, Tahoma, sans-serif;
+          font-size: 16px;
+          font-style: italic;
+      }
+      #size{
+          width: 200px;
+          border: 1px solid #ddd;
+          outline: 0;
+          padding:9px;
+          border-radius: 3px;
+          background-color: while;
+      
+      }
+      .box3{
+          color: red;
+          font-size: 29px;
+          
+      
+      }
+      .box6{
+          color: red;
+          text-align: justify;
+          font-size:22px;
+      }
+  }
+  
+  @media  only screen  and (max-width:300px){
+      body{
+          background-image:url(imagebackground/janko-ferlic-sfL_QOnmy00-unsplash.jpg);
+          background-repeat: no-repeat;
+          background-position: center;
+          background-size: cover;
+      }
+      .box{
+      
+          border: 2px;
+          width: 170px;
+          margin-top: 60px;
+          padding: 25px;
+          margin: 0,auto;
+          height:fit-content;
+          background-image: url(imagebackground/henry-be-lc7xcWebECc-unsplash.jpg);
+          background-attachment: fixed;
+          color: white;
+          
+          
+          
+       
+         
+      }
+      .box2{
+          text-align: center;
+          font-size: 24px;
+          
+      
+      }
+      .box5{
+          text-align: center;
+          font-size: 27px;
+      }
+      .box4{
+         
+          color: white;
+          font-weight: bold;
+          color:red;
+          font-size: 19px;
+      }
+      .box6{
+          text-align: center;
+          
+         
+      }
+      label{
+          font-family:Verdana, Geneva, Tahoma, sans-serif;
+          font-size: 16px;
+          font-style: italic;
+      }
+      #size{
+          width: 130px;
+          border: 1px solid #ddd;
+          outline: 0;
+          padding:9px;
+          border-radius: 3px;
+          background-color: while;
+      
+      }
+      .box3{
+          color: red;
+          font-size: 29px;
+          
+      
+      }
+      .box6{
+          color: red;
+          text-align: justify;
+          font-size:22px;
+      }
+  }
+  .error{
+    color: red;
+  }
+  hr{
+    margin-top: 20px;
+  }
+ 
+  #sizes{
+   
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    border: 1px solid #ddd;
+    outline: 0;
+    padding:9px;
+    border-radius: 3px;
+    background-color: while;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    text-transform: capitalize;
+    transition: all;
+    cursor: pointer;
+
+}
+#sizes:hover{
+    color: white;
+    background-color: black;
+    border: none;
+    transition: ease-in;
+    
+}
